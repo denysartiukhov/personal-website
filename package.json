@@ -6,6 +6,9 @@
   "author": "LekoArts",
   "license": "0BSD",
   "starter-name": "gatsby-starter-minimal-blog",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
